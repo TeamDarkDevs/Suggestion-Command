@@ -1,4 +1,4 @@
-# ✨ Suggestion Command
+#  Suggestion Command
 Basic Suggestion Command, with Request and reply feature.
 
 # 💫 Preview :
