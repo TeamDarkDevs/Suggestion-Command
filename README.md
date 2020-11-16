@@ -10,3 +10,8 @@ Basic Suggestion Command
 *  Admin Commands :
  * `$suggestion reply <suggest-token> <reply>`
  * `$suggestion setsuggestion [channel]`
+ 
+ ## ✨ Dark Developers 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/TeamDarkDevs)&nbsp;
+
+
