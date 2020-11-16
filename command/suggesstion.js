@@ -23,7 +23,7 @@ module.exports = {
     if(suggestionroom) {
         let check = message.guild.channels.cache.get(suggestionroom)
         if(!check) {
-            db.delete(`suggestion_${message.guild.id}`)
+            db.delete(`suggestion_${message.guild.id}_c`)
             return message.channel.send(`i can't local the [Suggestion room] please dm an admin to fix this..`)
         }
         if(check) {
