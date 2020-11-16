@@ -1,5 +1,5 @@
 # ✨ Suggestion Command
-Basic Suggestion Command
+Basic Suggestion Command, with Request and reply feature.
 
 # 💫 Preview :
 [![Suggestion](https://cdn.discordapp.com/attachments/756126885553111114/777633951334268929/ticket_preview.gif)](https://github.com/TeamDarkDevs/Suggestion)
