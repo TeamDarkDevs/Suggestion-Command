@@ -34,6 +34,8 @@ module.exports = {
          .setFooter(`Suggestion Token: ${suggestontoken}`, message.guild.iconURL())      
         .setTimestamp()
         check.send(embed).then(m => {
+          m.react('✅')
+          m.react('❌')
           message.author.send(`Suggestion Created. \nGuild ${message.guild.name}\nYou agreed to be dmed on admin reply on ur suggestion.`)
           db.set(`suggest_${suggestontoken}`, m.id)
            db.set(`suggest_${suggestontoken}_msg`, suggest)
