@@ -1,5 +1,5 @@
 const Discord = require("discord.js")
-const code = require("@codedipper/random-code");
+const code = require("@hapi/code");
 
 module.exports = {
     name: "suggestion",
